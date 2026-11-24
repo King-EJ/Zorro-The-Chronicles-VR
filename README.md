@@ -1,6 +1,8 @@
 ZORRO THE CHRONICLES VR  v0.1.1 (test build) - Unity 2019.4.34f1, IL2CPP x64, built-in renderer
 ===============================================================================================
 
+**TEST BROKEN RELEASE**
+
 <img width="1024" height="1536" alt="Zorro_ The Chronicles in VR" src="https://github.com/user-attachments/assets/0ce4e641-06cf-467f-988d-938421af6ecf" />
 
 
