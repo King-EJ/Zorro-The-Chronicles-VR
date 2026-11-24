@@ -89,3 +89,17 @@ v0.1.5
   - The whip is no longer in the left hand (VR menu > Hands to turn it back on).
   - The sword has its own place on the controller: adjusting the hand no longer moves it. Live hand adjust:
     X now goes right hand -> left hand -> sword, so the sword can be adjusted on its own too.
+
+Issues
+-
+* enemy disappear and some of the world
+* throwing rock have to turn controller upside down to move aim
+* player go transparent in1st person sometimes 
+
+Disable: to disable Mod rename winhttp.dll to winhttp.dll.bak
+
+[VR Mod Manager](https://github.com/King-EJ/VR-Mod-Manager/releases/tag/VRModManager)
+
+LICENSES
+-
+Uses Astien's OpenXR bridge. Free, non-commercial.
