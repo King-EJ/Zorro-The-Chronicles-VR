@@ -94,7 +94,8 @@ Issues
 -
 * enemy disappear and some of the world
 * throwing rock have to turn controller upside down to move aim
-* player go transparent in1st person sometimes 
+* player go transparent in1st person sometimes
+* telescope take some getting use to,can move with right stick and with moving right hand
 
 Disable: to disable Mod rename winhttp.dll to winhttp.dll.bak
 
